@@ -1,2 +1,2 @@
 # dp50011dec14decuk
-Reference architectural slides of DP-500. Uploaded by Sunday Morning
+Non-copyrighted Reference architectural slides of DP-500. Uploaded by Sunday Morning
